@@ -1,9 +1,10 @@
 {
 	"type": "Live2D Model Setting",
-	"name": "model",
-	"model": "model.moc?v=20181102",
+    "name":"xxb-3695903",
+    "label":"xxb",
+	"model": "model.moc",
 	"textures": [
-		"textures/texture_00.png?v=20181102"
+		"textures/texture.png"
 	],
   "layout": {
     "center_x": -0.3,
